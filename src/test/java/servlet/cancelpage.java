@@ -41,6 +41,7 @@ public class cancelpage extends HttpServlet {
 							out.println("</head");
 							out.println("<body>");
 
+					
 							out.println("<div id="+"home"+">");
 							out.println("<a href="+"avnhomepage.jsp"+">Home</a>&nbsp;&nbsp;");
 							out.println("<a href="+"avnlogin.jsp"+">Logout</a>");
